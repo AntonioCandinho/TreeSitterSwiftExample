@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "tree-sitter",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AntonioCandinho/tree-sitter",
+      "state" : {
+        "branch" : "add-swift-package-manager-support",
+        "revision" : "ccf005add121db1a788e3d7b9c0da8159540bf5c"
+      }
+    }
+  ],
+  "version" : 2
+}
